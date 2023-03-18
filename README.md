@@ -15,7 +15,7 @@ In this step, the required columns of the dataset are selected, which in this ca
 
 In order to recommend posts, the project uses cosine similarity in machine learning to find similarities between captions. This is achieved by using the TfidfVectorizer and cosine_similarity methods from the sklearn library.
 
-##Creating a Recommendation System
+## Creating a Recommendation System
 
 After finding similarities between posts, the recommendation system recommends them to the user based on the similarities to the post the user just interacted with. The recommended posts are generated using the recommend_post function, which returns the top 5 recommended posts for the user.
 
