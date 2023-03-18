@@ -1,4 +1,4 @@
-# Instagram-Recommendation-with-ML
+# Instagram-Recommendation-using-Machine-Learning
 **Using Machine Learning to make  Recommendations for Instagram posts.**
 
 This machine learning project is an Instagram recommendation system that uses Python to recommend posts to a user based on the similarities to the post the user just interacted with. The project works as follows:
