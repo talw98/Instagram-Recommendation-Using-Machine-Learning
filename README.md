@@ -5,7 +5,7 @@ This machine learning project is an Instagram recommendation system that uses Py
 
 ## Importing Required Libraries and Dataset
 
-The first step of the project is to import the required libraries such as pandas, numpy, sklearn, and Google Colab. Additionally, the dataset for the model is also imported using pandas.
+The first step of the project is to import the required libraries such as pandas, numpy, scikitlearn, and Google Colab. Additionally, the dataset for the model is also imported using pandas.
 
 ## Selecting Required Columns
 
@@ -13,7 +13,7 @@ In this step, the required columns of the dataset are selected, which in this ca
 
 ## Finding Similarities between Captions
 
-In order to recommend posts, the project uses cosine similarity in machine learning to find similarities between captions. This is achieved by using the TfidfVectorizer and cosine_similarity methods from the sklearn library.
+In order to recommend posts, the project uses cosine similarity in machine learning to find similarities between captions. This is achieved by using the TfidfVectorizer and cosine_similarity methods from the scikitlearn library.
 
 ## Creating a Recommendation System
 
